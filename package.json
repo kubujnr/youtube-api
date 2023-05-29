@@ -4,8 +4,8 @@
   "description": "Youtube downloader backend experiment",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index",
-    "dev": "nodemon src/index"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "repository": "https://github.com/kubujnr/youtube-api",
   "author": "kubujnr",
