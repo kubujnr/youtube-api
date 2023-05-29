@@ -1,0 +1,21 @@
+{
+  "name": "youtube-api",
+  "version": "1.0.0",
+  "description": "Youtube downloader backend experiment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": "https://github.com/kubujnr/youtube-api",
+  "author": "kubujnr",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
